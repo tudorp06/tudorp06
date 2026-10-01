@@ -1,6 +1,6 @@
 # hi, i'm Tudor 👋
 
-I'm a teenager from Romania who likes making cool shit on the internet. I build small tools that make the computer feel more useful and a little more fun.
+I'm a 20yo dev from Romania who likes making cool shit on the internet. I build small tools that make the computer feel more useful and a little more fun.
 
 - 🪟 I'm learning Windows desktop development through [Clipwise](https://github.com/tudorp06/clipmind), my open-source clipboard project.
 - 🧩 I also build tools for developers and designers, including [BuildNotch](https://www.buildnotch.app/) and [UIDrop](https://github.com/tudorp06/UI-drop).
