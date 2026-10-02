@@ -8,7 +8,7 @@ I'm a 20yo dev from Romania who likes making cool shit on the internet. I build 
 
 ## things i've built
 
-- **[BuildNotch](https://www.buildnotch.app/)** — a Windows notch for developer work, bringing useful tools, GitHub activity, and AI usage into one place.
-- **[UIDrop](https://github.com/tudorp06/UI-drop)** — a browser extension for snapping design systems -> specific components, interactions, DOM elements and sending them in one click
+- **[BuildNotch](https://www.buildnotch.app/)** — a Windows notch for developer work, bringing useful tools (music, cool timer themes), GitHub activity, and AI usage into one place.
+- **[UIDrop](https://uidrop.site/)** — a browser extension for snapping design systems -> specific components, interactions, DOM elements and sending them in one click
 
 I'm still learning, shipping, and improving these projects as I go. If you have ideas or spot something that could be better, feel free to open an issue or say hi.
