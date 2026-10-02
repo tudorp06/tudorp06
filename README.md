@@ -1,4 +1,4 @@
-# hi, i'm Tudor 👋
+# hi, i'm Tudor, and I like building stuff around small services and AI 👋
 
 I'm a 20yo dev from Romania who likes making cool shit on the internet. I build small tools that make the computer feel more useful and a little more fun.
 
