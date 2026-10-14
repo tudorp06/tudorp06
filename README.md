@@ -8,9 +8,13 @@ I work across Python, JavaScript, C#/.NET, and Ruby on Rails. I’m also learnin
 
 ### [BuildNotch](https://www.buildnotch.app/)
 
+<p><a href="https://www.buildnotch.app/"><img src="assets/buildnotch.png" alt="BuildNotch logo" width="76" height="76"></a></p>
+
 A Windows notch with tools I use while coding and focusing: project shortcuts, GitHub activity, AI usage, notes, timers, and clipboard utilities. It’s one of the first products I’ve put out as a paid app.
 
 ### [UIDrop](https://uidrop.site/)
+
+<p><a href="https://uidrop.site/"><img src="assets/uidrop.png" alt="UIDrop logo" width="76" height="76"></a></p>
 
 A Chrome extension for collecting design systems and components from websites and preparing them as references for AI-assisted frontend work.
 
