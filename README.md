@@ -2,7 +2,7 @@
 
 I build small tools for things I run into myself, then try to make them useful enough for other people to use too.
 
-<p>My stack: <img src="assets/stack/python.svg" alt="" width="20" height="20"> <strong>Python</strong> &nbsp; <img src="assets/stack/javascript.svg" alt="" width="20" height="20"> <strong>JavaScript</strong> &nbsp; <img src="assets/stack/csharp.svg" alt="" width="20" height="20"> <strong>C#</strong> &nbsp; <img src="assets/stack/dot-net.svg" alt="" width="20" height="20"> <strong>.NET</strong> &nbsp; <img src="assets/stack/ruby.svg" alt="" width="20" height="20"> <strong>Ruby</strong> &nbsp; <img src="assets/stack/rails.svg" alt="" width="20" height="20"> <strong>Rails</strong></p>
+<p>My stack: <img src="assets/stack/python.svg" alt="" width="20" height="20"> <strong>Python</strong> &nbsp; <img src="assets/stack/javascript.svg" alt="" width="20" height="20"> <strong>JavaScript</strong> &nbsp; <img src="assets/stack/csharp.svg" alt="" width="20" height="20"> <strong>C#</strong> &nbsp; <img src="assets/stack/cplusplus.svg" alt="" width="20" height="20"> <strong>C++</strong> &nbsp; <img src="assets/stack/ruby.svg" alt="" width="20" height="20"> <strong>Ruby</strong> &nbsp; <img src="assets/stack/rails.svg" alt="" width="20" height="20"> <strong>Rails</strong></p>
 
 I’m also learning more about machine learning and agent workflows. Some projects here are products, and others are smaller exercises where I work through a concept.
 
